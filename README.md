@@ -35,7 +35,7 @@ A modern, reusable terminal UI template built with Python and **Blessed**. Maxet
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MaxetUI.git
+git clone https://github.com/Maxetow/MaxetUI.git
 cd MaxetUI
 ```
 
