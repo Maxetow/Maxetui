@@ -21,11 +21,11 @@ A modern, reusable terminal UI template built with Python and **Blessed**. Maxet
 ┌──────────────────────────────────────────────────────────────┐
 │                         MaxetUI                              │
 ├──────────────────────────────────────────────────────────────┤
-│ Menu                  │ Details                             │
+│ Menu                  │ Details                              │
 │                       │                                      │
-│ 1. System Status      │ Python Version: 3.x                 │
-│ 2. Environment Info   │ Platform: Windows/Linux             │
-│ 3. Quick Demo         │ Resize terminal to adapt            │
+│ 1. System Status      │ Python Version: 3.x                  │
+│ 2. Environment Info   │ Platform: Windows/Linux              │
+│ 3. Quick Demo         │ Resize terminal to adapt             │
 │                       │                                      │
 └──────────────────────────────────────────────────────────────┘
 ```
